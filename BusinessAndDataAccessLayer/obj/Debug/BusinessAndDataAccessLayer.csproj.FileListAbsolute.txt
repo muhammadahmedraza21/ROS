@@ -1,0 +1,5 @@
+c:\users\muhammad.ahmedraza\documents\visual studio 2015\Projects\ROS_QRCodeNew\BusinessAndDataAccessLayer\bin\Debug\BusinessAndDataAccessLayer.dll
+c:\users\muhammad.ahmedraza\documents\visual studio 2015\Projects\ROS_QRCodeNew\BusinessAndDataAccessLayer\bin\Debug\BusinessAndDataAccessLayer.pdb
+c:\users\muhammad.ahmedraza\documents\visual studio 2015\Projects\ROS_QRCodeNew\BusinessAndDataAccessLayer\obj\Debug\BusinessAndDataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\muhammad.ahmedraza\documents\visual studio 2015\Projects\ROS_QRCodeNew\BusinessAndDataAccessLayer\obj\Debug\BusinessAndDataAccessLayer.dll
+c:\users\muhammad.ahmedraza\documents\visual studio 2015\Projects\ROS_QRCodeNew\BusinessAndDataAccessLayer\obj\Debug\BusinessAndDataAccessLayer.pdb
